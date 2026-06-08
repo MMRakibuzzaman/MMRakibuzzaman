@@ -111,7 +111,7 @@ I am a passionate software developer focused on building robust, scalable backen
 
 ---
 
-### Connect with Me
+### Contact Me
 <p align="left">
   <a href="https://www.linkedin.com/in/m-m-rakibuzzaman-remon-6a9400349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
