@@ -1,11 +1,11 @@
-# Hi there, I'm Rakibuzzaman 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM254bzdjZzBqM2oxeXZic3A2ODN5dWxvd3d2dzl5ZXp6NW55ZHdwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yI8917j5D3MKDIB/giphy.gif" width="35">
+# Hi there, I'm Rakibuzzaman
 
-### 🚀 Software Developer & Full-Stack Developer
+### Software Developer & Full-Stack Developer
 I am a passionate software developer focused on building robust, scalable backend systems and crafting interactive, modern user experiences. I work across the full stack—from database design and desktop/mobile applications to web APIs and modern frontend frameworks.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <table>
   <!-- Row 1: Backend, Desktop & Cloud -->
@@ -76,26 +76,26 @@ I am a passionate software developer focused on building robust, scalable backen
   </tr>
 </table>
 
-#### 🖥️ Backend & Desktop Development
+#### Backend & Desktop Development
 - **Languages & Core:** C#, .NET 8 & 10, Node.js
 - **Web Frameworks:** ASP.NET Core, ASP.NET MVC 5, Express.js
 - **Data Access & APIs:** Entity Framework Core, Entity Framework 6, ADO.NET, RESTful Web APIs, Web Services
 
-#### 🌐 Frontend & Mobile Development
+#### Frontend & Mobile Development
 - **Web Technologies:** HTML5, CSS3, JavaScript (ES6+), jQuery
 - **SPAs & Component Frameworks:** Angular, React, Blazor (WebAssembly/Server)
 - **Mobile Development:** .NET MAUI
 
-#### 💾 Database & Storage
+#### Database & Storage
 - **Relational Databases:** MS SQL Server
 - **Data Serialization:** XML, JSON
 
-#### ☁️ Cloud & DevOps
+#### Cloud & DevOps
 - **Cloud Providers:** Windows Azure
 
 ---
 
-<!-- ### 📊 GitHub Stats
+<!-- ### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MMRakibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rakibuzzaman's GitHub Stats" height="180" />
@@ -104,14 +104,14 @@ I am a passionate software developer focused on building robust, scalable backen
 
 --- -->
 
-### 🔭 Currently Working & Learning On
-- 🔭 Working on building enterprise-grade .NET & Angular/React full-stack applications.
-- 🌱 Enhancing expertise in Windows Azure cloud architectures and .NET MAUI mobile development.
-- 👯 Looking to collaborate on open-source projects using modern .NET and frontend frameworks.
+### Currently Working & Learning On
+- Working on building enterprise-grade .NET & Angular/React full-stack applications.
+- Enhancing expertise in Windows Azure cloud architectures and .NET MAUI mobile development.
+- Looking to collaborate on open-source projects using modern .NET and frontend frameworks.
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/m-m-rakibuzzaman-remon-6a9400349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
