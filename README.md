@@ -56,10 +56,10 @@ I am a software developer focused on building robust, scalable backend systems a
       <br />React
     </td>
     <td align="center" width="96">
-      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" width="48" height="48" alt="Blazor" />
+      <a href="https://learn.microsoft.com/en-us/dotnet/maui/">
+        <img src="https://raw.githubusercontent.com/dotnet/maui/main/Assets/maui-logo.svg" width="48" height="48" alt=".NET MAUI" />
       </a>
-      <br />Blazor
+      <br />.NET MAUI
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
