@@ -1,7 +1,7 @@
 # Hi there, I'm Rakibuzzaman
 
 ### Software Developer & Full-Stack Developer
-I am a passionate software developer focused on building robust, scalable backend systems and crafting interactive, modern user experiences. I work across the full stack—from database design and desktop/mobile applications to web APIs and modern frontend frameworks.
+I am a software developer focused on building robust, scalable backend systems and crafting interactive, modern user experiences. I work across the full-stack from database design and desktop/mobile applications to web APIs and modern frontend frameworks.
 
 ---
 
