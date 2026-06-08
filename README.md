@@ -100,9 +100,9 @@ I am a passionate software developer focused on building robust, scalable backen
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MMRakibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rakibuzzaman's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMRakibuzzaman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p> -->
+</p>
 
----
+--- -->
 
 ### 🔭 Currently Working & Learning On
 - 🔭 Working on building enterprise-grade .NET & Angular/React full-stack applications.
