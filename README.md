@@ -1,7 +1,7 @@
 # Hi there, I'm Rakibuzzaman 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM254bzdjZzBqM2oxeXZic3A2ODN5dWxvd3d2dzl5ZXp6NW55ZHdwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yI8917j5D3MKDIB/giphy.gif" width="35">
 
-### 🚀 Software Engineer & Full-Stack Developer
-I am a passionate software engineer focused on building robust, scalable backend systems and crafting interactive, modern user experiences. I work across the full stack—from database design and desktop/mobile applications to web APIs and modern frontend frameworks.
+### 🚀 Software Developer & Full-Stack Developer
+I am a passionate software developer focused on building robust, scalable backend systems and crafting interactive, modern user experiences. I work across the full stack—from database design and desktop/mobile applications to web APIs and modern frontend frameworks.
 
 ---
 
@@ -14,13 +14,13 @@ I am a passionate software engineer focused on building robust, scalable backend
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br />C# 10
+      <br />C#
     </td>
     <td align="center" width="96">
       <a href="https://dotnet.microsoft.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
       </a>
-      <br />.NET 6
+      <br />.NET 8 & 10
     </td>
     <td align="center" width="96">
       <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
@@ -77,7 +77,7 @@ I am a passionate software engineer focused on building robust, scalable backend
 </table>
 
 #### 🖥️ Backend & Desktop Development
-- **Languages & Core:** C# 10, .NET 6, Node.js
+- **Languages & Core:** C#, .NET 8 & 10, Node.js
 - **Web Frameworks:** ASP.NET Core, ASP.NET MVC 5, Express.js
 - **Data Access & APIs:** Entity Framework Core, Entity Framework 6, ADO.NET, RESTful Web APIs, Web Services
 
