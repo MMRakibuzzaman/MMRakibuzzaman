@@ -57,7 +57,7 @@ I am a software developer focused on building robust, scalable backend systems a
     </td>
     <td align="center" width="96">
       <a href="https://learn.microsoft.com/en-us/dotnet/maui/">
-        <img src="https://raw.githubusercontent.com/dotnet/maui/main/Assets/maui-logo.svg" width="48" height="48" alt=".NET MAUI" />
+        <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="85" alt=".NET MAUI" />
       </a>
       <br />.NET MAUI
     </td>
