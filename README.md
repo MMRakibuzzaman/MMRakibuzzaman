@@ -1,26 +1,48 @@
 # Hi there, I'm Rakibuzzaman 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM254bzdjZzBqM2oxeXZic3A2ODN5dWxvd3d2dzl5ZXp6NW55ZHdwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yI8917j5D3MKDIB/giphy.gif" width="35">
 
 ### 🚀 Software Engineer & Full-Stack Developer
-I am a passionate software engineer focused on building robust, scalable backend systems and crafting interactive, modern user experiences. I love clean architecture, SOLID principles, and building high-performance web applications.
+I am a passionate software engineer focused on building robust, scalable backend systems and crafting interactive, modern user experiences. I work across the full stack—from database design and desktop/mobile applications to web APIs and modern frontend frameworks.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <table>
+  <!-- Row 1: Backend, Desktop & Cloud -->
   <tr>
     <td align="center" width="96">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br />C#
+      <br />C# 10
     </td>
     <td align="center" width="96">
       <a href="https://dotnet.microsoft.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
       </a>
-      <br />.NET Core
+      <br />.NET 6
     </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="ASP.NET Core" />
+      </a>
+      <br />ASP.NET Core
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      </a>
+      <br />Azure
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/sql-server/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+      </a>
+      <br />SQL Server
+    </td>
+  </tr>
+  <!-- Row 2: Frontend Frameworks -->
+  <tr>
     <td align="center" width="96">
       <a href="https://angular.io/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
@@ -34,33 +56,42 @@ I am a passionate software engineer focused on building robust, scalable backend
       <br />React
     </td>
     <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" width="48" height="48" alt="Blazor" />
+      </a>
+      <br />Blazor
+    </td>
+    <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br />JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://www.microsoft.com/en-us/sql-server/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+      <a href="https://nodejs.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br />SQL Server
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br />Git
+      <br />Node.js
     </td>
   </tr>
 </table>
 
-#### Backend & Architecture
-- **Languages & Frameworks:** C#, ASP.NET Core Web API, Entity Framework Core
-- **Concepts:** Clean Architecture, Domain-Driven Design (DDD), SOLID principles, RESTful APIs
+#### 🖥️ Backend & Desktop Development
+- **Languages & Core:** C# 10, .NET 6, Node.js
+- **Web Frameworks:** ASP.NET Core, ASP.NET MVC 5, Express.js
+- **Data Access & APIs:** Entity Framework Core, Entity Framework 6, ADO.NET, RESTful Web APIs, Web Services
 
-#### Frontend & UI
-- **Frameworks:** Angular, React, TypeScript
-- **Web Technologies:** HTML5, CSS3, ES6+ JavaScript, Responsive Design
+#### 🌐 Frontend & Mobile Development
+- **Web Technologies:** HTML5, CSS3, JavaScript (ES6+), jQuery
+- **SPAs & Component Frameworks:** Angular, React, Blazor (WebAssembly/Server)
+- **Mobile Development:** .NET MAUI
+
+#### 💾 Database & Storage
+- **Relational Databases:** MS SQL Server
+- **Data Serialization:** XML, JSON
+
+#### ☁️ Cloud & DevOps
+- **Cloud Providers:** Windows Azure
 
 ---
 
@@ -74,9 +105,9 @@ I am a passionate software engineer focused on building robust, scalable backend
 ---
 
 ### 🔭 Currently Working & Learning On
-- 🔭 Working on building modern enterprise web applications.
-- 🌱 Expanding my knowledge on Cloud Architecture (Azure/AWS) and Microservices.
-- 👯 Looking to collaborate on open-source .NET and Angular/React projects.
+- 🔭 Working on building enterprise-grade .NET & Angular/React full-stack applications.
+- 🌱 Enhancing expertise in Windows Azure cloud architectures and .NET MAUI mobile development.
+- 👯 Looking to collaborate on open-source projects using modern .NET and frontend frameworks.
 
 ---
 
